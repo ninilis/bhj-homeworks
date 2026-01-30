@@ -9,3 +9,9 @@ body {
 .poll__title {
   margin-bottom: 20px;
 }
+
+/* Стили для результатов */
+.poll__result {
+  margin: 10px 0;
+  padding: 5px;
+}
